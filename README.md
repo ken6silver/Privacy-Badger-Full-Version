@@ -234,4 +234,4 @@ This repository serves as the official landing page for Privacy Badger. The soft
 **Get the most recent version of Privacy Badger today!**
 
 ---
-**Last updated:** 2026-10-21 18:25:24 UTC
+**Last updated:** 2026-10-21 22:08:20 UTC
